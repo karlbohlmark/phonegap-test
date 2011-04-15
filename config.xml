@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.alunny.amazing"
+	id		= "com.bohlmark.cool"
 	version 	= "1.0.0">
 
-	<name>alunnys Amazing App</name>
+	<name>Karl's Amazing App</name>
 
 	<description>
-		An Amazing app by alunny
+		An Amazing app by alunny, modified by Karl
 	</description>
 
 	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+		email="karl.bohlmark@gmail.com">
+    Karl Böhlmark
 	</author>
 
 	<gap:platforms>
